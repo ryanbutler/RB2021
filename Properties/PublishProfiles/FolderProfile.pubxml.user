@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>G:\RB2021\bin\Release\netcoreapp3.1\publish\</_PublishTargetUrl>
+    <History>True|2021-09-11T19:55:33.8242696Z;True|2021-09-11T10:08:26.9353285-05:00;True|2021-09-11T09:36:40.9897808-05:00;True|2021-09-11T09:32:43.0174392-05:00;True|2021-09-10T19:09:27.3243784-05:00;True|2021-09-10T19:07:54.9533808-05:00;True|2021-09-10T19:05:31.0293791-05:00;True|2021-09-10T19:03:29.8943815-05:00;True|2021-09-08T18:55:23.7942570-05:00;True|2021-09-08T18:28:49.6715520-05:00;True|2021-09-06T19:29:38.7615542-05:00;True|2021-09-06T19:27:26.4025053-05:00;True|2021-09-06T19:21:40.2025106-05:00;True|2021-09-06T18:51:11.2762953-05:00;True|2021-09-06T18:33:05.2802678-05:00;True|2021-09-05T15:08:29.0131493-05:00;True|2021-09-05T13:53:56.3227113-05:00;True|2021-09-05T13:23:07.7566248-05:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Pages/Error.cshtml">
+      <publishTime>09/04/2021 10:27:39</publishTime>
+    </File>
+    <File Include="Pages/Error.cshtml.cs">
+      <publishTime>09/04/2021 10:27:39</publishTime>
+    </File>
+    <File Include="Pages/Index.cshtml">
+      <publishTime>09/10/2021 19:13:44</publishTime>
+    </File>
+    <File Include="Pages/Index.cshtml.cs">
+      <publishTime>09/04/2021 10:27:39</publishTime>
+    </File>
+    <File Include="Pages/index.html">
+      <publishTime>09/04/2021 10:27:39</publishTime>
+    </File>
+    <File Include="Pages/Privacy.cshtml">
+      <publishTime>09/04/2021 10:27:39</publishTime>
+    </File>
+    <File Include="Pages/Privacy.cshtml.cs">
+      <publishTime>09/04/2021 10:27:39</publishTime>
+    </File>
+    <File Include="Pages/Shared/_Layout.cshtml">
+      <publishTime>09/10/2021 19:09:01</publishTime>
+    </File>
+    <File Include="Pages/Shared/_ValidationScriptsPartial.cshtml">
+      <publishTime>09/04/2021 10:27:39</publishTime>
+    </File>
+    <File Include="Pages/_ViewImports.cshtml">
+      <publishTime>09/04/2021 10:27:39</publishTime>
+    </File>
+    <File Include="Pages/_ViewStart.cshtml">
+      <publishTime>09/04/2021 10:27:39</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
